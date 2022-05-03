@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Core Android Project's/MaterialX/app/src/main/res/layout/activity_dashboard.xml" value="0.24635416666666668" />
+        <entry key="..\:/Core Android Project's/MaterialX/app/src/main/res/layout/activity_statistic.xml" value="0.24635416666666668" />
+        <entry key="..\:/MaterialX/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1545" />
+        <entry key="..\:/MaterialX/app/src/main/res/drawable/ic_person_foreground.xml" value="0.1565" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/activity_blue_wallet.xml" value="0.24259259259259258" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/activity_crypto.xml" value="0.25" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/activity_finance.xml" value="0.25" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/activity_green_wallet.xml" value="0.25" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/activity_payer.xml" value="0.25" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/activity_statistic.xml" value="0.2359375" />
+        <entry key="..\:/MaterialX/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/MaterialX/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
