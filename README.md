@@ -30,11 +30,11 @@ Of course, no one template will serve all projects since your needs may be diffe
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 ## Build With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section.
-* Kotlin
+* Java
 
 ## Contact
 You Want To Share Any Kind Of Projects That's My Github User Id You Can Share It.
 
 Github Id : Durgesh005\
-Project Link : https://github.com/Durgesh005/Whatsapp_Clone.git
+Project Link : https://github.com/Durgesh005/MaterialX
 
